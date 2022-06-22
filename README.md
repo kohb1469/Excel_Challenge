@@ -10,7 +10,7 @@
 - Using Excel, I performed analysis on Kickstarter Data using many of Microsoft Excel's tools. I utilized Pivot Tables and different types of graphs to identify which subcategories and parent categories of the campaigns performed the best. Then, I used line graphs to identify seasonal/monthly trends within the Theatre campaigns.
 >>>>>>> f518a57aeda58e9d3fbfca2faa514da423eeaf81
 
-![Parent_Category_Outcomes](C:\Users\Bryan\OneDrive\Desktop\DataClass\Excel_Project\Parent_Category_Outcomes.png)
+![Parent_Category_Outcomes](Resources\Outcomes_vs_Goals.png)
 ![OutcomesBasedOnMonths](C:\Users\Bryan\OneDrive\Desktop\DataClass\Excel_Project\OutcomesBasedOnMonths.png)
 
 
